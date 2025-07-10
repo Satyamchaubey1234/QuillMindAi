@@ -64,8 +64,6 @@ Perfect for students and job seekers aiming to crack automated resume filters.
 
 ---
 
-Make sure to configure your .env file with MongoDB URI and OAuth credentials.
-
 > Make sure to configure your `.env` file with MongoDB URI and OAuth credentials.
 
 ---
@@ -79,7 +77,6 @@ This project reflects my core skills in:
 - Developing scalable backend APIs  
 - Designing responsive UI interfaces
 
-🔗 [LinkedIn](https://www.linkedin.com/in/satyam-chaubey/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/satyam-chaubey-a3b647271/)  
 🌐 [Live Site](https://hilarious-torrone-9e6694.netlify.app/)  
 📁 [GitHub Repo](https://github.com/Satyamchaubey1234/QuillMindAi)
-
