@@ -78,5 +78,5 @@ This project reflects my core skills in:
 - Designing responsive UI interfaces
 
 🔗 [LinkedIn](https://www.linkedin.com/in/satyam-chaubey-a3b647271/)  
-🌐 [Live Site](https://hilarious-torrone-9e6694.netlify.app/)  
+🌐 [Live Site](https://quill-mind-ai.vercel.app/)  
 📁 [GitHub Repo](https://github.com/Satyamchaubey1234/QuillMindAi)
