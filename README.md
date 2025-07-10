@@ -66,20 +66,20 @@ Perfect for students and job seekers aiming to crack automated resume filters.
 
 Make sure to configure your .env file with MongoDB URI and OAuth credentials.
 
-👨‍💻 About Me
-I'm Satyam Chaubey, a full-stack developer and AI/ML enthusiast.
-...
-👨‍💻 About Me
-I'm Satyam Chaubey, a full-stack developer and AI/ML enthusiast.
+> Make sure to configure your `.env` file with MongoDB URI and OAuth credentials.
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Satyam Chaubey**, a full-stack developer and AI/ML enthusiast.
 
 This project reflects my core skills in:
+- Building real-world ML solutions  
+- Developing scalable backend APIs  
+- Designing responsive UI interfaces
 
-Building real-world ML solutions
+🔗 [LinkedIn](https://www.linkedin.com/in/satyam-chaubey/)  
+🌐 [Live Site](https://hilarious-torrone-9e6694.netlify.app/)  
+📁 [GitHub Repo](https://github.com/Satyamchaubey1234/QuillMindAi)
 
-Developing scalable backend APIs
-
-Designing responsive UI interfaces
-
-🔗 LinkedIn
-🌐 Live Site
-📁 GitHub Repo
